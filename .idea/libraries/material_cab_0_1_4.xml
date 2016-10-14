@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="material-cab-0.1.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad/material-cab/0.1.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad/material-cab/0.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad/material-cab/0.1.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/material-cab/0.1.4/5daa5b0addb2d111743d0e0fd2d41070b375d04d/material-cab-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
